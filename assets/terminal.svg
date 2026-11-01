@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-label="Terminal: whoami alvin thomas">
+  <style>
+    .bg{fill:#0d1117}.bar{fill:#161b22}.f{font-family:'Fira Code',Consolas,'Courier New',monospace;font-size:15px}
+    .p{fill:#3fb950}.c{fill:#e6edf3}.d{fill:#8b949e}.r{fill:#ff7b72}.b{fill:#58a6ff}.y{fill:#d29922}.m{fill:#d2a8ff}
+    .l{opacity:0;animation:show .01s forwards}
+    .l1{animation-delay:.4s}.l2{animation-delay:1.2s}.l3{animation-delay:1.6s}.l4{animation-delay:2s}.l5{animation-delay:2.4s}
+    .l6{animation-delay:2.8s}.l7{animation-delay:3.6s}.l8{animation-delay:4.2s}.l9{animation-delay:4.8s}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes show{to{opacity:1}}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <rect class="bg" width="860" height="300" rx="12"/>
+  <rect class="bar" width="860" height="34" rx="12"/><rect class="bar" y="20" width="860" height="14"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="430" y="22" text-anchor="middle" class="f d" font-size="13">alvin@kerala: ~</text>
+  <g class="f">
+    <text x="24" y="68" class="l l1"><tspan class="p">alvin@kerala</tspan><tspan class="d">:~$ </tspan><tspan class="c">whoami --verbose</tspan></text>
+    <text x="24" y="96" class="l l2"><tspan class="b">name     </tspan><tspan class="c">Alvin Thomas</tspan></text>
+    <text x="24" y="120" class="l l3"><tspan class="b">age      </tspan><tspan class="c">20</tspan></text>
+    <text x="24" y="144" class="l l4"><tspan class="b">from     </tspan><tspan class="c">Kerala, India 🌴</tspan></text>
+    <text x="24" y="168" class="l l5"><tspan class="b">studying </tspan><tspan class="c">Cyber Security @ Monash University</tspan></text>
+    <text x="24" y="192" class="l l6"><tspan class="b">hacking  </tspan><tspan class="c">since age 12 (8 years and counting)</tspan></text>
+    <text x="24" y="224" class="l l7"><tspan class="p">alvin@kerala</tspan><tspan class="d">:~$ </tspan><tspan class="c">cat team.txt</tspan></text>
+    <text x="24" y="250" class="l l8"><tspan class="r">[red]</tspan><tspan class="c"> break it  </tspan><tspan class="d">+  </tspan><tspan class="b">[blue]</tspan><tspan class="c"> catch it  </tspan><tspan class="d">=  </tspan><tspan class="m">[purple]</tspan><tspan class="c"> make it better</tspan></text>
+    <text x="24" y="280" class="l l9"><tspan class="p">alvin@kerala</tspan><tspan class="d">:~$ </tspan><tspan class="c cur">█</tspan></text>
+  </g>
+</svg>
