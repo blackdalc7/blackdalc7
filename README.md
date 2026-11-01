@@ -33,7 +33,7 @@ Smaller builds for practising languages and fundamentals.
 
 | Area | Projects |
 |---|---|
-| Security and systems | [port-scanner](https://github.com/blackdalc7/port-scanner) (Go) · [subnet-calculator](https://github.com/blackdalc7/subnet-calculator) (Python) |
+| Security and systems | [mini-os](https://github.com/blackdalc7/mini-os) (x86 boot sector and C kernel) · [port-scanner](https://github.com/blackdalc7/port-scanner) (Go) · [file-integrity-monitor](https://github.com/blackdalc7/file-integrity-monitor) (Python) · [logstats](https://github.com/blackdalc7/logstats) (Rust) · [hexdump](https://github.com/blackdalc7/hexdump) (C) · [subnet-calculator](https://github.com/blackdalc7/subnet-calculator) (Python) · [sysadmin-toolkit](https://github.com/blackdalc7/sysadmin-toolkit) (Bash) |
 | Data and SQL | [campus-library-sql](https://github.com/blackdalc7/campus-library-sql) (SQLite) · [study-habits-analysis](https://github.com/blackdalc7/study-habits-analysis) (pandas) · [numpy-game-of-life](https://github.com/blackdalc7/numpy-game-of-life) (NumPy) |
 | Front end and fun | [keyboard-meteors](https://github.com/blackdalc7/keyboard-meteors) · [pixel-pomodoro](https://github.com/blackdalc7/pixel-pomodoro) · [terminal-dungeon](https://github.com/blackdalc7/terminal-dungeon) · [go-task-tracker](https://github.com/blackdalc7/go-task-tracker) · [rust-maze](https://github.com/blackdalc7/rust-maze) |
 
