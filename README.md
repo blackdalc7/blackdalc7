@@ -36,7 +36,9 @@ Smaller builds for practising languages and fundamentals.
 ## Tools
 
 **Detection and response:** Sigma, MITRE ATT&CK, Elastic, OCSF / ECS, Velociraptor, Hayabusa, Atomic Red Team, Nmap
+
 **Languages:** Python, Go, PowerShell, C, Rust, SQL, TypeScript
+
 **Platforms:** Linux, Windows (Sysmon, ETW), Docker, GitHub Actions
 
 ## About me
